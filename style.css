@@ -226,6 +226,11 @@ input {
   width: 100%;
 }
 
+input#date {
+  color: #595959;
+  font-family: Arial;
+}
+
 .input-group small {
   opacity: 0.6;
 }
